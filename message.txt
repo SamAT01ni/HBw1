@@ -1,1 +1,1 @@
-Message from main branch
+There are messages from both the main branch and feature branch
